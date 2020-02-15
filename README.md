@@ -1,4 +1,11 @@
-# tdh
+# Vue CLI Blockstack Starter
+A vue create app boilerplate with blockstack auth integration with below configuration
+- vuex for store management
+- vue cli PWA
+- eslint ( airbnb config.)
+- jest for unit testing
+- cypress for e2e testing
+
 
 ## Project setup
 ```
